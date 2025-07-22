@@ -9,4 +9,3 @@ This project focuses on implementing Decline Curve Analysis (DCA) using the Arps
   - Exponential decline
   - Harmonic decline
   - Hyperbolic decline
-- Compares actual vs fitted decline models on a single plot.
